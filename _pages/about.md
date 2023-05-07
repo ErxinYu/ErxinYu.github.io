@@ -8,9 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a M.Sc. student at [School of Artificial Intelligence](http://sai.jlu.edu.cn/) at [Jilin University](http://global.jlu.edu.cn/), 
-supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studies, I also work closely with Prof. [Lan Du](https://dulann.github.io/) from Monash University. Before that, I obtained my B.Sc. degree in College of Software with high honor from Jilin University in 2019. My recent research interests include Information Extraction, Language model, Topic Model
+ I am currently a first-year PhD student in the Department of Computing at the The Hong Kong Polytechnic University, advised by Prof. Jing Li. 
+Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin University](http://global.jlu.edu.cn/), where I was  supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studies, I also work closely with Prof. [Lan Du](https://dulann.github.io/) from Monash University. 
 
 **Contact me via**:  
 <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yuerxin1997@gmail.com">yuerxin1997(AT)gmail.com</a> or <a href="mailto:yuex19@mails.jlu.edu.cn">yuex19(AT)mails.jlu.edu.cn</a></font>
@@ -20,7 +19,8 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[08/2021]</b> I’m looking for a PhD position for the fall 2022 intake!<br>
+  <b>[10/2022]</b> Our paper "Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables" has been accepted by EMNLP 2022.<br>
+  <b>[09/2022]</b> Our paper "Towards Unified Representations of Knowledge Graph and Expert Rules for Machine Learning and Reasoning" has been accepted for presentation at AACL-IJCNLP 2022.<br>
   <b>[10/2020]</b> Our work on distantly relation extraction was accepted by <a href="https://coling2020.org/">COLING 2020</a>!<br>
   <b>[07/2020]</b> Two papers on relation extraction was accepted by <a href="http://ickg2020.bigke.org/">IEEE ICKG 2020</a>!<br>
   <b>[07/2019]</b> I received my B.Sc. degree from the Excellent Engineer Program in Software Engineering.<br>
@@ -61,8 +61,10 @@ supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studi
 
 # Publications
 
+1. **“Learning Semantic Textual Similarity via Topic-informed Discrete Latent Variables.”**, **Erxin Yu**, Lan Du, Yuan Jin, Zhepei Wei, Yi Chang, in EMNLP 2022 [[paper]](https://aclanthology.org/2022.emnlp-main.328/)
+1. **“Towards Unified Representations of Knowledge Graph and Expert Rules for Machine Learning and Reasoning.”**, Zhepei Wei, Yue Wang, Jinnan Li, Zhining Liu, **Erxin Yu**, Yuan Tian, Xin Wang, Yi Chang, in AACL-IJCNLP 2022 [[paper]](https://aclanthology.org/2022.aacl-main.20.pdf)
 1. **“ToHRE: A Top-Down Classification Strategy with Hierarchical Bag Representation for Distantly Supervised Relation Extraction”**, **Erxin Yu**, Wenjuan Han, Yuan Tian, Yi Chang, in Proceedings of the 28th International Conference on computational Linguistics (COLING 2020), Barcelona, Spain, December 2020. (Virtual Event). [[paper]](https://aclanthology.org/2020.coling-main.146.pdf)
-1. **“Context and Type Enhanced Representation Learning for Relation Extraction”**, **Erxin Yu**, Yantao Jia, Shang Wang, Fengfu Li, Yi Chang, , in 11th IEEE International Conference on Knowledge Graph (ICKG 2020), Nanjing, China, August 2020. (Virtual Event). [[paper]](https://ieeexplore.ieee.org/document/9194521)
+1. **“Context and Type Enhanced Representation Learning for Relation Extraction”**, **Erxin Yu**, Yantao Jia, Shang Wang, Fengfu Li, Yi Chang,  in 11th IEEE International Conference on Knowledge Graph (ICKG 2020), Nanjing, China, August 2020. (Virtual Event). [[paper]](https://ieeexplore.ieee.org/document/9194521)
 1. **“A Two-Level Noise-Tolerant Model for Relation Extraction with Reinforcement Learning”**,  **Erxin Yu**,  Yantao Jia, Yuan Tian, Yi Chang, in 11th IEEE International Conference on Knowledge Graph (ICKG 2020), Nanjing, China, August 2020. (Virtual Event). [[paper]](https://ieeexplore.ieee.org/document/9194528)
 1. **“The Poisson multi-media knowledge construction System for TAC KBP 2018”**, Zhicheng Sheng, Danping Wu, Zelong Li, Wei Zhang, Jingchen Lu, Zeming Xu, Dong Liu, Shuo Guo, Yantao Jia, Zhepei Wei, **Erxin Yu**,  Xiongfeng Xiao, Zhuo Wang, Jianyong Wang, in Proceedings of the 2018 Text Analysis Conference (TAC 2018) , Gaithersburg, Maryland USA, November 2018. [[paper]](https://www.semanticscholar.org/paper/The-Poisson-multi-media-knowledge-construction-for-Sheng-Wu/8cb0baa1fed8f46b82466b6fd378a21a0faefb09)
 
