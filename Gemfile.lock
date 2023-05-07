@@ -217,6 +217,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.11.4-x86-mingw32)
       racc (~> 1.4)
+    nokogiri (1.11.4-x86_64-darwin)
+      racc (~> 1.4)
     nokogiri (1.11.4-x86_64-linux)
       racc (~> 1.4)
     octokit (4.19.0)
@@ -260,11 +262,11 @@ GEM
     unf_ext (0.0.7.7-x64-mingw32)
     unf_ext (0.0.7.7-x86-mingw32)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
   x86-mingw32
+  x86_64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
@@ -273,7 +275,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.2.25
+   2.4.12

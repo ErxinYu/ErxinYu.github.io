@@ -11,7 +11,7 @@ title                    : "Erxin Yu (余尔鑫)"
 title_separator          : "-"
 name                     : &name "Erxin Yu"
 description              : &description "Welcome to my homepage!"
-url                      : https://yuerxin1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ErxinYu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuerxin1997/"
+  github           : "ErxinYu/"
   google_plus      :
   keybase          :
   instagram        :
