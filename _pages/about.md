@@ -29,21 +29,21 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
 </div>
 
 
-# Experience
+# Intern
 <!-- <h2><b>Experience</b></h2> -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/jlusai.png' width="300">
+      <img src='images/huawei.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b><a href="http://sai.jlu.edu.cn/">School of Artificial Intelligence</a>, Jilin University.</b>
+      <a href="https://career.huawei.com/reccampportal/portal5/index.html"><b>JD Research</b></a>.
       <br>
-      Master of Science (Sept. 2019 - Now)
+      Research Intern, JD EXPLORE ACADEMY (Feb. 2022 to Apr. 2022)
       <br>
-      Supervisor: Dr. <a href="http://yichang-cs.com/">Yi Chang</a>
     </td>
   </tr>
+
+</table>
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/huawei.png' width="300">

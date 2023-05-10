@@ -19,12 +19,14 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, [Jilin University](http://global.jlu.edu.cn/), 2019 - 2022 (expected)
+* Ph.D. in Computer Science, [HongKong Polytechnic University](https://www.polyu.edu.hk/), 2022 - 2025 (expected)
+  * @Department of Computing
+  * Supervisor: Prof. [Jing Li](https://www4.comp.polyu.edu.hk/~jing1li/)
+* M.Sc. in Computer Science, [Jilin University](http://global.jlu.edu.cn/), 2019 - 2022
   * @School of Artificial Intelligence
   * Supervisor: Prof. [Yi Chang](http://yichang-cs.com/)
 * B.Sc. in Software Engineering, [Jilin University](http://global.jlu.edu.cn/), 2015 - 2019
   * @College of Software
-  * GPA: 3.57/4.0, Ave. Score: 88.44/100
 
 Experience
 ======
