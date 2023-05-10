@@ -30,7 +30,7 @@ Education
 
 Experience
 ======
-* Research Intern, [JD EXPLORE ACADEMY], (Feb. 2022 to Apr. 2022)
+* Research Intern, JD EXPLORE ACADEMY, (Feb. 2022 to Apr. 2022)
   * Focus on Image Caption Generation.
 * Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), (Jul. 2018 to Aug. 2019)
   * Focus on Knowledge Graph Construction and its application .

@@ -29,10 +29,10 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
 </div>
 
 
-# Intern
+<!-- # Intern
 <!-- <h2><b>Experience</b></h2> -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;"> -->
+  <!-- <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/JD.png' width="300">
     </td>
@@ -42,9 +42,9 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
       Research Intern, JD EXPLORE ACADEMY (Feb. 2022 to Apr. 2022)
       <br>
     </td>
-  </tr>
+  </tr> -->
 
-  <tr>
+  <!-- <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/huawei.png' width="300">
     </td>
@@ -56,7 +56,7 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
       Mentor: Dr. <a href="https://dblp.org/pid/130/0492.html">Yantao Jia</a>.
     </td>
   </tr>
-</table>
+</table>  -->
 
 
 # Publications
