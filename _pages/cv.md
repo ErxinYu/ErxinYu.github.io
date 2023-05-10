@@ -30,7 +30,9 @@ Education
 
 Experience
 ======
-* Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), 2018 - 2019
+* Research Intern, [JD EXPLORE ACADEMY], (Feb. 2022 to Apr. 2022)
+  * Focus on Image Caption Generation.
+* Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), (Jul. 2018 to Aug. 2019)
   * Focus on Knowledge Graph Construction and its application .
   * Supervisor: Dr. [Yantao Jia](https://dblp.org/pid/130/0492.html) .
 
