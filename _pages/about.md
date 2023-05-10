@@ -31,7 +31,7 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
 
 # Intern
 <!-- <h2><b>Experience</b></h2> -->
-</table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/JD.png' width="300">
@@ -43,9 +43,7 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
       <br>
     </td>
   </tr>
-</table>
 
-</table>
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <img src='images/huawei.png' width="300">
