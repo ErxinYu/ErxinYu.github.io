@@ -33,7 +33,7 @@ Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin
 <!-- <h2><b>Experience</b></h2> -->
   <tr>
     <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
-      <img src='images/huawei.png' width="300">
+      <img src='images/JD.png' width="300">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <a href="https://career.huawei.com/reccampportal/portal5/index.html"><b>JD Research</b></a>.
