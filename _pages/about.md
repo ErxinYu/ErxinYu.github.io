@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am currently a first-year PhD student in the Department of Computing at the The Hong Kong Polytechnic University, advised by Prof. Jing Li. 
+ I am currently a second-year PhD student in the Department of Computing at the The Hong Kong Polytechnic University, advised by Prof. Jing Li. 
 Before that, I received my B.S. and M.S. degrees in Computer Science from [Jilin University](http://global.jlu.edu.cn/), where I was  supervised by Prof. [Yi Chang](http://yichang-cs.com/). During my graduate studies, I also work closely with Prof. [Lan Du](https://dulann.github.io/) from Monash University. 
 
 **Contact me via**:  
